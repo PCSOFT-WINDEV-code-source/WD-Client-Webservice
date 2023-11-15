@@ -1,0 +1,802 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_ClientWebservice
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_ClientWebservice
+ identifier : 0x2cf7817822900946
+ internal_properties : CAAAAAgAAABv/ZkG+qla9o4F97elaScy0U4bHWei3Id4zC4/uN5qsHwOiHnpgYm/jOK70LehTVQA6NBdd4AlUS1Ecwt/bZyVe4wFHIEYQscdFL0MTJ7m2M565woxtAtVtq/DHH2tv8zRhYxKBbsfqVvvIUZ5ORIayTxhgt65LEPzhVxPn+aWt2FTQ8yZ+uN+PphsQWm/B8TIwVGAqvgrUza4aXG/zWCeAbyp2Bddb+vTxUyyq4xUFaihRszl+QPlx17sbk9ALIQpoBTRGVMQjAnq7XEzpmgS3bjWSIPhQxkU2R0l/gAG/TuwuTf7TnClz1mBCDRL/zNlD0IKuoBngL3R255hVmgmcR0myYUVk5crritiH7lZSqVaGEGILgw4V6RPPbQr+/YZjF+PWvCPJpyO6VLJMM5xlxrnpJUAPgaLjobTaAmn8EpWFj79k6XtrUkNpAOewxzcAd3sd4caaqkZ7NwBPAFeTqn2T+r7IxnXbw7bmOp6NVkEHUgsGRNGkeyBlK+r95VH4Hx/UO1bqMppwf61CC3oGPNVyJmuoHCdG9kOAguIc50KphUkjduyfSMC3Vxz+3VMfrYHdRKsSsk615e4PTs6ANVZ1YoE/iyEISvmSx/TopX+TJmgfyDogfMuo3jxilkV7AD1bgnNO9xudUA1nzQXTwDuigAQoXs6hC63X61wTkXpTOrpM5S84yXnrxAN24TkCJwCjg80LmVcwJPSUqpJRyow1xsTdaNgZ39UsAs7MX7ykw4Ylyko2TNgGGUH4tQbRNO3Rfl4Tmp5FmmMjdLHO2Ds
+ properties :
+  width : 695
+  height : 583
+  widthClient : 693
+  heightClient : 551
+ controls :
+  -
+    name : Image_Resultat
+    identifier : 0x2cf7818e229d625d
+    internal_properties : CAAAAAgAAAB3T29/DKL6OMhpxnRCdYAfLJYnkRhpWMb4EukGwvbftkzbSJvG02ddEHNRTYoaub2HPfO/kv7OtkdNibKPysUSU8QOZp+5UFDGFeH995C4Azw9UiecOJ0IRetbmyQT5DRFwVeaH2tQdtaSZTESVJGWbhhIzianSK+QruANrFf5sdaGMSMixCDWIIET/7Qh9hfV1IrsgJZ74tKGotjtBPBxZbKlehY9szA0C7ocULbxXQvTaSEtzP4S+jrBq635jgfCRFkxiwRnH4oIL3j8RsxbxEsdvq8h0fEnbmWHMRp1LpiocW2sSSHcvaL7uXrjFaXCZqzUw9cid0MCMf8BmR0+AG91OEPm8lFOZEklBtV3hR5rQakCU8cABB3xAt4RDslgAsATDskEjK+LMvKx2p41Nv0LPuMQ6foY3iV/nw33A3bjceSedR9zb4ZydGnx4vfr6MbQITgKFfBTQ6Qu4Y+ku8L9HhfrMWhIe93pif0QbHxaKQ6+Oq7qrP/M48eM/UD3f8f6ELkrHNUgjxhK+YNEuj/BlkeKj+ckiU9WZ9g34UsQ5YI/SIuYcdqe+1vvPFAp5xKxqFhoiG2tkplYm1OXWo2zZnUWK2iTr7LDAsihyD4Q5adZ1nuFr2jQlWlOL4i1/dL8Phn/TC5h0WnxAPff0MCQ20hBFdCkKVPfc0OYjNtEQk2jcmW+4xfK8vt22TDQFoaTVvMAyx4eClZMzRmT+WrKJ8Vx20mEDHoulS7i7x5ZuXL4LXAgsKVrvwem9Wzozf82MoPpfaN6MxyxGzbZ4K1CrIpZ7HroR/EgCZvxvp5Q+UED4yqw9qjqQD78ALRxBKAb8fXf8Yyul96KFb2qe1cvSn7ytlORk7uOU9op1O5AUNunrtl8CzFhIFGquDITZZO6+67AFfe5ew+yUk4Q8EJZzEeSrAxGjfcm/HjrX0M4U7BuXYl5b0FDewCpk3kiwtFGuMqEHorgWyUiFuJwYr/qTr/8KwYMyRbAwSMzk2HrxIy5zTzhBB7W
+    properties :
+     x : 360
+     y : 174
+     width : 319
+     height : 271
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : BTN_Rechercher
+    identifier : 0x2cf7818e22a4626d
+    internal_properties : CAAAAAgAAADQAH4G4bLl5v3uIDP2fmaa1LwT5z9yDmoUFLdLg+1VinNX7nJ+zciUE/Ba+ZmeA/gJN9/Ah/Q5leCuKVDq3CC+jfixKD52k6bW5KQETYVymhnkUM2i3VqKiXbPt+F8WE7zEXQhWdR2QmRJfHpYWmx2PhKjl26PKKK9+lCXNbefgJPrASLVuZWNfNK1CnLqEwg0O+mGsvjmiWYbYRbfGSMB28XFm8A6esUnHxreUMeuTSNqRLST2MeJE6l5faKQnJHMwBaEYdk8EEFLJHlR17txw6JVt7FJ1DD5AugV5Shgr40Ffy9hOVvYS9dbS9gr0S4rwWmATW13Ai+g681Ro104SE5VlYERYZ+lLsP4a2vsQWeHYIP1Wa7zX+R40f64+F/PkNDR4hhl4toQKFMdufX+goA8Vu+VK4lW8jwm+VzCYAN6Neuz5beiNCyRqLHCvZcec2vXqDdvnsrW3aRW7+2CYlYp5Un32N58yPODyfOddaUKyPUEAiR+ADgTqJVWGnIWS2MP2J4x58lRx2XhHxRmfRuLL2F/A9WtDB35fXayigHyx9qiGUdGas2c0zB+iKtX3UW8PsvkEtTkuC/lmzjYEcphMNY025HCnyxf41Gx9wxa+o2hBDkxAkHwSIikpIbU77RIqljZkZyBwA354maUZlbRvtCM6P7VVT+6TzOWSpdhTWyln3gu5KhIF/7dPRi3YcaZ6HBG+PpLFOkr07PbdKlzTBxWBaZ14SrpQFMSYAMTwNrqAgbBsQt/UAMt1ci7q7DNYMghblAZYtxWkRBgQ+hPjiHC7j+8Vj23E0Vbb/L7yQNcYW3h+oY+g3unqEOxOmjZVXOqHnL8ryz40hcDizauQX9FmncnfVJijPalf7JeG3heWj4A1hUPHFi338zXcNp/UAUkYVHZ9exO7sdQ/D4JINxjX6CGKwyX
+    properties :
+     x : 253
+     y : 426
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // On vérifie que des mots clés ont été saisis
+         si ListeOccurrence(LISTE_MotsClésARechercher) = 0 alors
+         	Info(<§$0000§>)
+         FIN
+         
+         // On lance l'exécution de la requête
+         ExecuterRecherche((Sélecteur_RECHERCHE=2))
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_Resultat
+    identifier : 0x2cf7818e22a6627d
+    internal_properties : CAAAAAgAAADaxw8rvAE8BDnYgkFqw5QotP0kGEH+fAZYeBdOyuF4DCEg5PlFlekR4bn1Do+oPZroLubILZdt+g8uR9IT+wq8IbLLi/mKR4ZIceEiDirEBSAig/2P0b/xIA4ej0oFW5GDC2/xlePeAvL7GSd9qdZ8MrR2ReCAs/O2ItRrVb+UDtYhs3eWH4BVBFfZA/d9PA6d729XozK6GrsnsskCf/Aww7ZLlD/T9DnLwztCPlQYkmITdGWPYVJcPhjcmfsAEIVF12u+8pRFwoyz/XVi/+HlBFXKBBkPtENu08HzeTcyt/R6kUPxEIBANhfI/jpPpnHiWtKHghhLDZAK+UARNY0ADvnfMh8Kj17Dz0lsf2EVPPgFPPR8Qkl075ghNfPJw04Ej72yEiwWfcrESvJedWwM7/Igor+TENdMRYh+VmQ5DhlsKVeY7kmQmv131ii8BZRMFxnrrmuUqshTvhrW4Ars2y6GBjnlpzPTuwwhAEfSIRIFswm1mgfNNZDs5o6wgVIFeJMblUPqvQPVmxHF0ogLcU71EIo4pSIEH8+NLPh3QequumPq/k0Z/YAqTH/ovU4=
+    properties :
+     x : 372
+     y : 441
+     width : 294
+     height : 15
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : Premier
+    identifier : 0x2cf7818e22a8628c
+    internal_properties : CAAAAAgAAABWTqfwbdV/i6CogePl76vOLjhMrhwKGldewsB2bdJ7+5RlQMTDgNv7lCb7t+jaZsoQ+PGu3U9xSuTDERfwmFRiHOILzmyX2r1yffAhG9BH2+J561r2vlQUkfzjRmmSLiTg458Qs6Olynbc9ZK0T0G8Q6LPAGCNfMq0PivaVfhGslwcthMXow/vzgV3JiePyVv5rTgZqU1k+35ZOktjdNNuIyhrbgxJscURcTQAFptV+WE8gU7hmnC1KPoSLMN/hHwafEmOIAvX3ZLluT65mvZe4r7hMzf3sG8f1iqmnP+8pGGTSJ0xIVNWE+WYjXQuTYvre4W/aNdptxrxvOtvsi4dGZRS4/4Lr+3CQvdi17xIDUjBbtBJz7UGOjMFOC4Gb9o9pTtkGX3lrFdHWkCMpcoZSjivAiVx0OsXFdAshwsRQepT05TLw1xVqdhfeWr2Cm2ow9QUpY0ZtohIoQzVuHCrNc3mb8Nhtt6FTGWGqktSs/X68bXXA3JAXh3UjGYs9nHz2YGyq7RzGPgVJSmCGUKNyVpKRGbeFBRnywm6NSjVV11cjazcAswrVQB9UOPfddQTC7+0V608UECxvve1S8pbkxwUjj7xXmTpp6eM4PJQAlTBph8rWfJY2aWQHMUbNJhP/LXwbgdM2xUcrTmSYv7Ei20l1GzXgTnZ5G+9WGiJJ5jOGkSkTdnRxCeO889J4jMwMg7ePv0emIcAijFfvEUy4Ba32AwDWP7JbF5uL8BHl1LScqQONvf9lSA5e+WzsKQ0rYXeET2TtHSXY+MGP+qmbLW1Wn+WIuDz4RVSll8sw/RyQ5FUb0ZAZ4egF9vBMNxb2KdA8L5vhRcaV3QlNaBWzP+GePTU0Fc54Z8V+ynZhAJb2krPXWSLtobkne/hyRv5CdjMRlCg3j1yzuRHRuQcpOOpQvIydSVt/g4j+XjJO+nabhxDXsfq/Eb6ReYpTnN3ZcoMA8nVQug8gYMEmnkfEqPfOtIia3H9kHbEjegTAihAchMNuOVbjUmAKivLkBlIllBNbSMnkRbpihE=
+    properties :
+     x : 419
+     y : 462
+     width : 45
+     height : 30
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         PremierResultat()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : Précédent
+    identifier : 0x2cf7818e22aa628c
+    internal_properties : CAAAAAgAAAAwbNtcKWi8hGObjDNpQjpv110dL0qHQ+Ih/SB3+/KKOOZYQnHAKv50rnZ45lUjP2PTzeP5hhsPui8OhnwoH1mk7Y8meHXRkw8jsIB0QcOkjByPb96AFO3lfPWcgdPDW+poxNPumhTYjjdOqWnJkQz9P4Mbi/wwdnaHp1Q2aETol5seMnn4FhNjcbnQgRO0vODzCULYq9EneshLMtdGKxYsoVvL/M17i2XwWZ/jums759YuuTnA52F8JAhKevtUn0SJm07dc4B4J4lICmUDXgeH+ZUIqNjOv9ZAETFivWMT1sMGqlEk5dj9OlO6nTEPF9qAa1hIBpCJKnFcMnoRWwvr66QfSrS9oKX07hQ0fL/cefq/qm2yrUzTtAKPk4IUkl85OYvqMs/c9GI/PYoILTa4u49WAE8rzhZeyjhNHKmnnS0UYBPXTGAWwt8su9hql1tWsnvnLwh6bzd0QNAafACl7sJpgraRirQcMoZH/scUIulNyb3EnpGJDWIi/elKTQRdSYf8DdTmsb0vOk+dRQJI9tCS/OBfMUtUJpYruiBzcqM8nE83Rk9b6td3oDJunqcHJrW69/tX6+BiwPdZg37Lgr2iLmYoF3ONjOOmTCPKzdRzFal5pwlF1pR+cN3feH8dyv5yGkYVp3qklirn1noMkjyVDPC+Ij7rRBDIyWeu7lCQ6a1H8VOl1bF5yTNdnjCnSA0V+/3faZrGst52oKbz6u/JfNThyvB0MRdczosH5Zs2jAD5G7WJa4xAct17VAojLM2+ilS8785rVO3YzJVEq/3f9BWU3fL+h3chjdGjKkvFplVU6rXi83TKS3sz6etIp6G6M4/yKiv7N8DZTHYe5FwXSiDhxL7gdKGgMifWExQjBi17HU4/ng6eKz70tqWSty8zhboEkPeP8b/rIYlbLZKB9Iz/vljXhGL1N7h6fjIFLx8n3K2cv6T1ss6D+sAtITA56jbuRGE8IBILQMX3CbtsoaHLrgCMY9B58rx+7UwxunlgkmH2FcraXnqSnuELGSXC
+    properties :
+     x : 470
+     y : 462
+     width : 45
+     height : 30
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         ResultatPrecedent()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : Suivant
+    identifier : 0x2cf7818e22ac628c
+    internal_properties : CAAAAAgAAAC7oINZtAiYUIu9JLEGlsC2uLYg8WjUkZgqKiU7y4spO/gXLXJS5QmuuY5wu0SVIdsrVveCrFPqj70+mYFOxRxwrwgpCFAkSmyj/LKYf3V4l58sDGDGqMgmflb8d258chubdKjec65ziRz0FvvSWx/gTvezoa12joL3xJcr+Y4bJ09uLFvlmLdtzzkV1cPCjeZ82fUWQ0RGtcMDlKnvM7kpjE/y+3OZeW98gMdY+5fjHzLzUy+Py/k9NP8KVDJDZBKsFiGvlQaNygIYR3udVCKZMFLc0kie5ur760/R94mc1GroKURYNYVB37J7MS37myqx3iBMtRTgYLJHeTVuk7JGfT4GJvcVCurUF/xMTEryS7o5YCiyPgR5Rbx7zF0zUxz5ynxUmUU7HNyd3FgHEeo8i7xjzISXzdPPW1dxgU1Ep4aIWV/UJqU58mI78jMtxsivcYOD72U3Hi+GOfCL/lCpItZA9KGOdWLzgPH+AZpiemkZ0EuOqVKc+QkCYkz05kkzk0a3DpOlVPQk0gQSiYcHPDZ/U5IT0jhF8ByzfbBmFcQoyJVGv24H8QGYQSd7HsoAwb5RUZIQZi5w0/otc3NT4vJx0ViAXNQjIvAX5twrjnvR3TKXVgbKn/LPnd2zh5S0Gsw3glKef/k/smJOpunCdPVMfyC6X/F/F7RG/ITUfdlCdZHkLCdxOgrH4EFH1Y+fBElp9J76Vsc/qyLFlnpsYcBi25BmApaJY++fLbJmITHMa0/o6w3RcUkkkgeBD66zJ15bERyZKDoScI6k4bfgY/S3Vv6yWkJAwzWp6JzsJCGi0DEeEH9ONAqJzIHf0epuzq3P2ah8ul7vPuHmwiytvr6DFmnrhXr3NavWOFZMOaoV2FS05HREULcQoVCKbo8VPmPEgMfP87gfRYDIIONt4U2kX0mx4bMJuI1Ip4uj6PO7B7UCMvZJlcXHoBQ7VEi1BbNhEatTb0JpDBTEf1Kt0PCYg7kDFR4aiCTnfYXzZXxdJmHDL3ZvzguutFo7urTnSVC2nZ8E0Ys=
+    properties :
+     x : 521
+     y : 462
+     width : 45
+     height : 30
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         ResultatSuivant()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : Dernier
+    identifier : 0x2cf7818e22ae628c
+    internal_properties : CAAAAAgAAAAJRKNxTdNbKpPV03ctzB0VuANibWQvAETtrt6IzQVFMFuRpJ2Wu0uCOR/LqGmUg0pl3VLS/bgQPUZBCO65MJLUlgpz3Mw9eX8G7Pn2ZS8nuQia+XjHIIIO3uK98HUxkxAAYpfmXQEAym74xyFlMp2uavedtHLiKqsrvUys9PjZa4Z2WxJYRj2qhj/xZq1C/GdRbRkWqNYjwOSqMln+gYortMRgYA3QAGpde24yAgbauud5w7rP9rN/Z3zbWNG+KobbCk0CRfV6D3IwSiWJE2yLRvhwhdnUiM9UaoZzXBGzbjaf1Qd9wzMp5Q3r1TkFJiId0MlGRj2Q7cAmqfmXqaFwZBUppsSUJGjLPJj8q9/YGPq/8wu+m+oIQWNmU2xMgc77UbQGDZo3X0Nt1qCm9AvK+xXIkmVn0U1mFoTuciwmbRGr6/ftP4uG7lcZhKdqpmNlekY61wKQu/tLFbSL1kAzfdz+6Xygb6uyyL6R6M6dPcahtRwlhnyAjtd8l9FDHD0EtGdv9caIBHFdwkae9O75eaeoC4x5/1xsiGawFXVVgZqHrgzNLtNoNom36VXLak48J2njs+HxzBa+Rv5+Jq6mk0oAdaAwW4rTjGNFWxyCtHXw//JJzfnC5sq0q+RAaKqSgwa3DuTjup7afOk6U0jvjVuZTdgIxNPzaqjxFJxmlwezrRyPo8WaBRtbQMaS6G2WcznyE2Mf9v6wIhfb24pUO0y9KxCLvFtw68UB2QCdiijPMhMjo+vqw6bmL1SEvnfALe9z3HGQhIwv9ZyD9bBgk+0jZZzfv9QvL1J4INGLjZrgG3PKVncqeuO49q7gk6b/6pLa5RRPvJlYs3usbnBHcaaClNdxYUMfpJTteUXjuvk7wLmhQVwxPY8peYwwI1py/vMpfJlDBlhZwF29z+6omxDQHj62wXThkE26BiH7T+1MX8OL+j3GvsxF4iDybLgnD3SrljA9XNPQBJPn1G10fhBvha3U7zV/QIvcwIiHlyl2ceHAI8Npk70IqWL/JuU=
+    properties :
+     x : 572
+     y : 462
+     width : 45
+     height : 30
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         DernierResultat()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : Saisie_Serveur
+    identifier : 0x2cf7818e22b0628c
+    internal_properties : CAAAAAgAAADYBY1hTl4dTHDgirzL6qpVF6aPlyUcXyzWvzqho7dbUHbsO+JZdxqvj5iFHrKEci6dnN1tgl8NGpPiiwQFWZK+cVZeTDAc0ymegKTKwb84G2U1xpNF5awg2bh9O3aCGhsFbwPNfwKgGLWVnVASXjln76wTcT2BTOv/mixdVFKJOyWdmzCMMuGkb0w8OjwgqPCXO8X9I46CQXeUSWVwTXLIfQuFPRD8iyVq/qstNziMytrw4OCAmMd4nrTlVajLPEDF3IR6f5/ZgzhOsTaliKIGgQrvNwv2aQwATlmy2C23uZLPtMYMS5ZqHVYS8NpESzXdyLn74pJ1iP7+OlLI9JgmnYF+IebKLFuY4R0qWIw/XEl64v/qHHS6dWvutD8eFh/G1Kivz1/H7w6ggKHnCF70tBcak0kcHfhrs+mmzrCeHwgxyF3FTU5nmiSteOzgmbdkwzjxtK3mn7GLGQwV1u+9XsiujwxEBetZ+Ubdn3ofT1JDQusa68FuI9+HT27U0OJQXUGTq+g1DT9mgTumfSfLFO+eJ9lOmGsuoQNDw4sG/nBiGj0mZ0JXkhyQx86a5u6LPTRTz3w9UyqdG0bZiN7O7ldbjSPovC/p1Sva9Ny5zIKYYic7dqXDEQaffMaoMnWNbfVfVRYltj3/8Muu0GJTjmrEY8z/wbcnQ5BBtNpPrPIv72nJ7pKgRM7fmOW3XAQOTrAkaLizcww6JAYoHKVlWEmj0ekwBdhPgDQ4/jXAWm/5b8wrHwL7yhkFWahb54eVvKcQywm/dc06welxB2R9Y1E7UxNH1RKpfZlfX1q+giYDB1y84jt7r0qTw4HaC1UNlXntLKuhBR9eq/hz7z4a9ALv+WSdY9mRM1SuUPhICf4lt4418OSK4s2kLRBYCXMgk3XNzQSJASlADxauM2ansJ5JnlbS3Pc14IOKHX+W8V5LlOJIl2wmuW9RS2PsibmSkoU6BFex5LPYKkkh7h16NX3izQl8yi5PKJQZWjLnBNt9FrQkC6/3ZqYAnHA8k3Tb6TzxJ0DqE02N1n66hoLjPISPjyXX9y0WFGaUZBDVPka9MHmUFzqDhv9g3WFdzA9i0iF5d3kz0kU6wF6aT3Hbv5iG+wgAfvaOkNLyiDajmocehhlX8DUFcZQmgH4RWrz+HYDuFcIZg1rohD+wtIruP7YvQpWXh1DstDwBSXAnBtpuS0X9
+    properties :
+     x : 20
+     y : 112
+     width : 646
+     height : 25
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAAAyPe7YGTa9yHf2i84u40wbD8BVafgBtJbNk79LQVNOS6NIUE2BoaeHwqLTkfEefzgTgGtztzMPhq16yCOV7j1RqnXoFSAU3fIbu2hea277swC/wpurG4fNFWcFxLodOE9cA7Fl3TfYYeILIw==
+        code : |1-
+         MoiMeme = Inilit("ClientWebservice","Serveur","http://localhost/WD_SERVEUR_WEBSERVICE_WEB/awws/WD_Serveur_Webservice.awws",gfsFicINI)
+         
+         // On change l'adresse du WebService
+         WD_Serveur_Webservice.Adresse = moimeme
+        type : 14
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        code : |1-
+         
+         // On change l'adresse du WebService
+         WD_Serveur_Webservice.Adresse = Saisie_Serveur
+        type : 17
+  -
+    name : BTN_RECHERCHER_MOTSCLES
+    identifier : 0x2cf7818e22b5629c
+    internal_properties : CAAAAAgAAABKRz6t1Om/GsZ38pYxxzhAm8FZNSf4vh3p038E5m0cew3p+NshnNkYcLobimvnu02S94PEibSo+mesQI/RSMVfFjpOjyxeb8DRLFUw4qaE+ZfF+eMNME0Sj7xf08frDf/bOQxu0rI7xZJgUrlYwHUx1fYujtKwxQHgl03uAWBXr6EKmzkqMMQLFj/O+KXD787xAKY4cizLMVAZ9MyTLIP4e73kbIYwFW969JvtnfD4MVJ2E34Hf3IYuxRFy+cJkkvXD2EkNjZiLLf7RJzLrHLlClqdL4FpQIgCj3b9qCmsNjgEnCqGy3Q93EyHc0pyp+tAWUt8952tR+NPqjuiVHxlWKJlZmSWEQ1x66FoB9RA8vT6THRBermLhytcbOXYCf/7XgYVnA9GNkx6b94fhovit5GtZCbtPOEb4k5INlDGxLuV3kDxojJFcOXkYgKcXwNsN+6g1Sc4s0w58uWBEUq6RVsTNOCbD2294EfORmFyyMZHJ6YVrx0ILX/jjxUad6AYDZUT/wAfXl5030eCJA9UplzxLToY9t7OMGvkuzp62WDCOBNae9xHskLKn8hPWeMnZ/yJFb/56rPiuNdup3RcYgyezXylCucoSKxrO9kIzbkMw4NSppUFofJZu8sQvvWtoMS+S4v3yOwiG4xaggc4opEAuFpB/8755ZFVw7pz26//dtILG6JfaEYthn56SBoi1JsbMx2IV6w3Ix+fUcXzQlLK928Yd/xorixERtljwypX8tgOtrLNs0zt1ZowO4cOzBjyphrL9SaknDbPCgYu22grOfiKZRlOGJ1xmFdzikmRlIJbp0+Es02+R+wYm/qiCMvOj+cR5jsSDVftbvEuoPfCfnQWkpiNCKPZ8xvHpCy5wzblzziCJd8RRq+INgmL4Fr9ot9NX7jD0v25KC3NCNP6uv7753y6AKCP6Ehqm7FJMdBFo3iCRipaVhAdq+o8aF+nnf5J
+    properties :
+     x : 18
+     y : 184
+     width : 315
+     height : 33
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADHsYYNnZu1svuAO474g2A5X0Ek8LiRQ+fTvg+kBFFHJ2UITmxrdOkhrK8/MJSiZU5DvtLcwHjAEmi3/uOyPjzeNz/CEW9yDl7+mEii6DAWpLWXhrkcCRydqhprcpF3xS6vQ50PjKiOpqgKO2A=
+        code : |1+
+         tabResultatRecherche est un tabRenvoyerMotsClesResponse
+         
+         // Appel au web service
+         tabResultatRecherche = WD_Serveur_Webservice.tabRenvoyerMotsCles()
+         
+         // Traitement du résultat
+         SI tabResultatRecherche.tabRenvoyerMotsClesResult..Occurrence > 0 ALORS
+         	ListeSupprimeTout(LISTE_MotsClés)
+         	
+         	// Affichage du résultat retourné par la procédure
+         	POur i = 1 _A_ tabResultatRecherche.tabRenvoyerMotsClesResult..Occurrence 
+         		ListeAjoute(LISTE_MotsClés,tabResultatRecherche.tabRenvoyerMotsClesResult[i])
+         	FIN
+         	
+         SINON
+         	// pas de connexion
+         	Erreur(<§$0003§> + ErreurInfo(),<§$0002§>)
+         FIN
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : RADLIBELLE1
+    identifier : 0x2cf7818e22b9629c
+    internal_properties : CAAAAAgAAADsFT83kAIF9DuRMtbMVdgsxHFuS6ZddlJSusDiz5kZlsezKmFLLGxCbUTr9r28cwlcHhJMrdEo59LLpmIbCUZ6+TAXZkevE20OcYNWM0MwOYGcHzMBvjeJheP6JRkVnLT5TD3OMcoDbHs+NhO0Fj5u7LR86ZJ0extA2f5T2mvlrfdgx/A5sobbCQPwZpy4Eb+R8cXYjoAwM3Uq30wYNFBsDJsXxXso6kiTct3+j3nQbCVqrfciF7w7+TQic0l0M1Q7kDtvH2h3N6kb4A+O2rvLZmQTE75CxV8Wd8qrpLCmvmdoWej+hgRaCOfZ33t53InNM400GaqYWsKZWrYs0tnMMOE9ECR7II0eCsRUBKLlk6hYNF0rvSXbAtf/B5JQiICicFsAyIDVeWMx99GKGXmoo+hTOYTUcir+z3E3qsmjUyqe5PUhuH9kRyrGZUsyHDk9mFa6Wil2rHLud5X7TasVy/JwYC0AJOHb7i6iIZyTxB+c8tgDvfv0mNoY8MEzJzj6QWWSHJDxstZf8Stx77FyD9Yrk1sBhUQ=
+    properties :
+     x : 20
+     y : 153
+     width : 646
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+  -
+    name : Sélecteur_RECHERCHE
+    identifier : 0x2cf7818e22bd62ab
+    internal_properties : CAAAAAgAAACi7Wjx+XJGIeGhojSorCb9188lnJd4o27NGQpJlAhWQv7LmFNglYWjASgGFMT7phXoQ4isrMIyhNWrkAWg9JAjrEE2k1PDFVB9BTDwSBpqmZpZopHWfBeoCDY2jJ22eZibScrOUX6nV44wMLaEMMf+MqD1U8X3YvLkL7U5Hg3LRfjkhM4LuB4rx/QxKycNazqURcAOjzM+AYQd9NaJvxUqOykXkkQ+cLLsefbNN45t3OGbsJwehAHuZ0oj/V+EWkXPs9+Z4Mpbzg0GTU8TZ56d96BiFP6SmeSOchWm+4bNZGgwnlAFCOLFerIL3NZXeWSukbTgCIKYkrTMYlYt7izDBzqqZ2pVG9t33qEDOB0c4qC+A6t+Qjk/dd8qh274r2zQEUY9CvtHIWnSCrVi+dKesxf7GlDCbcrFQxDB079S8FGnSBKhhIjMRSnb/1Uo+gy98oUFgFKt61dBPGFH96cA2sm4eJPlnvwKl03/aDBMjCOIRFV75VPMxr5uIpH/ugjegZXgljbrwla+0GqgdUdo8AiT1mNNsnNuiVUmMRK+kFfBLLjUUOUceS4/Yw9YAM1YYCVwjy1TSm6IXd6HXfcHEns4nmXbv3uHqUoPOhN9ayoOpcmS0OHmYkS5IR8yib/+zTpNUP8c9azAyGoLEM4gjCO7WPIzSxYVzuyHiYAloRyjhGKpnOdh9VH0icYwvlShJfz14PO8xWExMC+iEJ3B3GMZgctp90pzDT64w8P0AOMaMYKhB2os3AivjYNtJ1vP9T97Frnhlb2ikTDNnSGJ0JnJzel42uy4JLNm88KARtTGqchlgr5u2H0ZidCuHOg5DOoHYczsXwRYvoSX+++ZoKqjEawJQ/lSWDgoU4dOI8py9Vat2Vmg6Ej+2L3I4fY0EYnwyhHxy8Iv87OuG5uiYJ5jrmIZrJd/pXZqi5KA0uKnGpxEgat9D64CsF9RNUbPHbP4DTW2feGqmuKn2ff4QjUS8GHEsAPENPUoWZtLVE8OIHvl/LnVfbglLvvP2MDx9l1y8MV4IRFx7/WtMVv/ErJdF3Z2Kg28C920bRsIs9IA646d+Ns4yjvuhEknbeBLi2lox9bLRaF9S6UwLUNrRRs0FOMePvFI0/Elb7dnzWE41KsWP5+UqJVDlx6g7EVZV7dEmN2OLsZSGtyreEdKMK8x0XmqSPWvBMoVA6CSQ64yzHzNTJqmu060V71Jp1eG
+    properties :
+     x : 156
+     y : 426
+     width : 89
+     height : 24
+    options :
+     -
+       internal_properties : CAAAAAgAAABQfhzswCmpp4gYHdhM57s0NunwCNAiul4Fg4Dv5DiLPJ0UvEDqDvchi2e9/Y+1NkyM7eFiT39cuL0hFekwNCF7zMQkzTQ+vo5wSf3rXDlyRhiqJulVkGjWJJ4LgTfsqPdz1DkRFd0zGAaAV5vViHRKJjfL
+     -
+       internal_properties : CAAAAAgAAAB6PuxP3L49rlcD21vWsTvwwKS3XFiLsiGrIhR9m/95125OiUtufBzBWlbC71xfHFo5+bB8gY5kQLi1lQnZTEjnIfJ5LK7Fov7+KHqujGTsgWyk9eSB/X6QXAva3u0Lnh4LtfBxSkiLnJqVmB88IGtj9Bfn8A==
+    type : 6
+    controls : []
+    code_elements :
+     type_code : 6
+     p_codes : []
+  -
+    name : BTN_Fermer
+    identifier : 0x2cf7be8d969aa26e
+    internal_properties : CAAAAAgAAACn2Zw9+kAcLV2dOsdpHx1zcqzDWOhxcWOR7d6Q+Lm2dWFz2jg4zhG767m/In8mQwwCiAChHDngDT83UCUY08VO8h9ecbR0FTzL2hqRmsggoVEh+EPpmItUtvdlHpbW6KIwdd5l01xgrEoswtwQDd7FoOjINyk32w13EuHzwm9k682r7q1lv+FfM7O4FnP4G/PMe3RQOCdM4/xSJIkvL5nSUu3wg+VjkSHNln0fYnBhcAvxK9THIbMFd8LhV2Ikmqmh9s/7Exvew1Zlz4Bh65c7B9skDBfcuOGA4F20a9b7J/aiqd9UD76LW5V4VDxur/VjSWxvLtOXPxh49iuuJhk8vxkEtirYQ5xsk46gCkP66Qyi4lqqIIPO6/l30BakS9Sdw0Jlq/6bcMwbG7wdz2OlhNsW0HSljLOEc7dCiOquh4iMWr3jow72jM6ficNAfRDCaJ34nBTwPTnTyXsnZVe10IojuRGUKFQsIEa3ojCeuPjCdyh376E7Dd4LeZuAe08EaGmZHCTwaXmgcxg8TI/x4NXhiimXBgDaeXp8REOPrYEi40i8uzJjMs+SI0LSEkWrUyqnxbX5d0SejjgseOShZAXKBpH9hzOpzYWUI8FdRkOQTdZX0AKyUkcRuZ5vK4sqPlHW0EyvSxid1WVMiGYi90krOJ/117u27oWILSF2S+0k+05fsCQ/6Z7wgdSbV3tuF2lofxRr+3mTjVwhdeCF1TFaq6IJZQ26W0cXjQOhtqa1SdZi6ljznzA+4csa/ogHp3f8Q1/CNQkgdW+7iFd0Jgchq5mVSOhRfEErqdV+BpcsL7U86MVVAGfmhX8wvz6vUtPYvdRo6LWw9Ik1qfU7jkMAjBDEa/6tHgoJtI8yZlwfCQtxfqzZ1YYX+qZs0pVKNvj1hlupoIGDgwON1yJev9RBb0gcu+PoZQmvvKLw5kEaJ44jai15R3um4WGXhnXy6yOxqOLqvhuVe+n+qFVd19J3/v75aO4qg2S5zfGdQiHV8i+Is4/yp8wE1DFTjeSwlJJV
+    properties :
+     x : 603
+     y : 512
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LISTE_MotsClés
+    identifier : 0x2cf7bebd9a8c5db1
+    internal_properties : CAAAAAgAAAA//taU8hGEQaCeZwrBBSSWIIyJFBB2eOJQKDkAHK1vEVM6Tcn0D/4iBJg7/yT2LeIfrYz9QHAaRkagx6k6spGKieI9q1rI8hXMyG6sbSvNREWQAtmDETzmklE/7z9W8Q57j8j3/X7xxbYEumSufVLc+seOxdKfDOtScmq3E/ASuN653zuGbSaGeh7ZXWOFL9SZQZyOQcQFC8ZS3R/C2NuIPaylqV3X2Z0H6DtiDxqguhr6pllG92f7ZJkgnH5ZoETwFy8IYWnhFRLW1S+VyKio+qCHnKchc9+qYxfp7rJXxp2nNav2wCsyEDExFB/wF0ykMdFkLgY3o1RMr+kj65zWJk8ecr8nVn8bQGf1JuQKVPKy/XE+y0wjyE6w+JgXGVs5TSndSKD9YFoWA6TIR6p8o02A8N443idM2ZYCUyiQTJ3ozOYylUQiX9PvFcdjogtn2iOeQLWrtwBNKIYvLPbi0K1BuluhKhZCR5cV5SeBFvQLruoiEfqW1uPaKB9sPB75L6Z37MDoF/y0mNUzdoPIy1dhtYYjBU8XkchWErMYi3Pq+ITL7BvsAcu6X34PYtdzVgc01tW0ahzToicd3QfwZMy5ma/vN/HMUcyf4vh7pV4nXvHLScdD3X/lBgozx/IH1ezPFdiXEdYl0q+fB1qhbeE5ZUMpNNEK0Tg6MW1jxqdItup13TrDOX+rDxMJQVzycQMPa49uc8q8591PNTdc3DM3myC0fdzjSVM32VtAIro7NJ4bVmmdHTVKhnvoxZq7odeuWQoDL+EjIMJfu25s++i3lUkBefcUcD0s/5xxC4yClRMdyQ1egJJefRmq044DMWU2YplTvSui3U05tvlhQpDUnJTgyxmAkbPfbnPIbD9wnt5slKT7rPYOvkewZqCtMkhdWNKWaTPwyvEts1zTTv/rJRhD5Igxt/IKpAn91rsBRxGctnqY+D2ZBqVfmiVD5a4UAMFl8OzcczEi+bTYH9KOcggrmU+fPxE9EvAO6CtGFNVFT/o36aBh93n7z/yORmWLXloTC6FI+apb9SFylk1645XVat33
+    properties :
+     x : 18
+     y : 223
+     width : 315
+     height : 92
+    type : 7
+    code_elements :
+     type_code : 7
+     p_codes :
+      -
+        type : 35
+        enabled : false
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+  -
+    name : LIB_SansNom2
+    identifier : 0x2cf7c202b93724c7
+    internal_properties : CAAAAAgAAACLCkbHajfp/PjWosc1uo094iEzfVTS+IiKTJ8Xwm2aSigMnhGDbCAUkhAiRdkBw3ES85aQEskgHez+riry3zhmgAxkMy05GIHsd4WNO2Od2YZNQP37uNqZLgdf50CV8WQBF++pGvGkObzSm3yn3+rCN1SmMjIzkQlt6f1S08m2xdgGxyzlf6t03pkBKrz0UnJ1hf/auJf1WQKMWPVi0jX/rrTQSbxFAtiSrytu2yRHLWPt25Ue7JZ1Us888cry2Ij0/gvRLRCupZNofOL6uRSQRVXS47Uk8ijasNcWOCh42dfcQGr4ivEOybXmC1vBLJyeTgV1EKpnslg7SbfahXkKHg6aYtfMmy0cj24U5CqcaKzeqM7RsIkoAbRyWdHyoqs1bkYGBa3GWgFQUxAfcwaeeFaHQSr6B0b8bMwI1Dm5Oj12na0SzgoqUbEVRTW/3lk/sg7/fTpnC3Vnix0j/dzDDHkGRaQMVDx5K+Gu0oKvSh+KM/F7IterO6KL5vyzQU1si2aEzWxpICj3kS3Ec7y+MwCufEC8dkkl9FDk5kVSohXcGgFNGBiv/k9wseaYgFYb8Lrzw64as70d7OY0WSKs5dQhMYRGenTyYsiCEP+yPdfTdVvmxVxnXs6ZjEi7VMiz6Ed0bT+jM75+ivO3LqhM2vQBfuSVT7Bppk3QH91v5wA8KkSZwRE4aUcvSxsxHyTiGIGvBdHasA7wzamzjPyTwm5A8W7ZwHB5v8K2af4+eoPVE/bBs46gi+B9MIzSvB3Nb+Ju5PNlHBeYytQg02cPb4nw5lVMvd6w8sDwGTv0rHsCu8ve6ck2Y2u8hLvl8/vbzSt3y+KstOI4XiRbvTB22xG7NLZmUjLPSAEAzsPerimOZ/oSHjORqnDjbBrQxR8zsyauRlIYepzfwOGJhnj192+OaQ==
+    properties :
+     x : 20
+     y : 18
+     width : 646
+     height : 91
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Ajouter
+    identifier : 0x2cf7cb1f0dbcbc26
+    internal_properties : CAAAAAgAAAAGgyc5jgD4VcbQuvBoyc5m1GwmWST4xgDBnG9alHLDtbttDQK9OV9K85WCVOBO6MuDBW1nztdpuh2I8tayypI9AUiNe+4ZB3vK61iVJB4g2VWUCml67w5/6wQvBviSnqsCmvlV3ReubO3C3CA/yVuldB3/+d/Oux8yOq2OEKv6FK2YNplf8G9rRaSopjTFC/E2DsoFEpBA3+GS6Sr3Knh794wtOj2z7TRYz0DH5HT7lgTMjf4VYeIX4XaBPp3D0bvCiN5y3DvEnR97AaPbTSm1gTuSRerWIKxWFnPEN3SIPSQwpp4SxL+8VWOeuh8dqflmN7wwDbzG8PTzCJs0uX/00yXbQAFhm5vmKaJWNubTMXNhRgU4yXhXSgEr77ckKSmvFt5S4GD1lik26zvckyeEL9baVRU+xKZYEvz301EZkDAbAXzFsmMPoPb6gYzyfCByxT4eD4sJqGMgNluYmhy3mmZfXKlkV1BikALqemeZZeIeVfseYAQvc7r5AtCB1So4VCi3+GXYIhbPGwJZjoRRrgHIMWxjqVCmbuWFqK+0f/QylvKPm3vTHiCdCnDAEpiSRe6qYfdSs+ybXTKPG4j5EPwaWgt3/iPTo/Vsy1/ZSHnElRsM5h4tJuaBmehmIC0NS1JLrJXQW4vffIc0N6vxNblVIYaf22Soa4vYVx6jwu/su5kKJsVcYZwxPoL0hy+9HBjEjwxnpv/k7AaCnOBPyuQGfOKVCpyUgBvYl0detQNOLfLpIyjSictqoXtpYI7cMUCwlHG0b25d4Af9twfgIA0JulTg9hcyHUnaYuLWcVGkmp3u1mcEFv2Dlnk0FnjNPXKulZjbTs0J1KOQSl8efGRMokM2BU+q3WBRqMdlqD296mXCIuAJRNx5AWin4+EdJT/1P74U3eIPAFH+8E+S9T53HL7MUL8rcU277+tR
+    properties :
+     x : 18
+     y : 426
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         ListeAjoute(Liste_MotsClésAREchercher,LISTE_MotsClés[LISTE_MotsClés])
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LISTE_MotsClésARechercher
+    identifier : 0x2cfe72a71d1a7da1
+    internal_properties : CAAAAAgAAACNQyVaRnwQWljy6ipmxcAxNe1CsuTvVXOXKe9PhjyDeuwoC/dwB3MlzWsT1UDcRFVyEqWM40eefVtOvlwWujGzOlNd2mxvjn098tlfIo7pPv5RL+SWJ2jnI2YzRGrtce4O7NGIkJSdfT262tmgZPnzdLJdg6hfEud0EvlC0sUgPomVLO8nyh+KDXycznyArT2glvyI4WNBEBjHCQQgLgKIwV2oUuMpPeDEn2Ndowv0YsQrL3mLh5IOZzsrNRuqgnzmzHnCNRwu1giw9kGQ8es6GlxhDCNqOUmiqhnnZKlhK7FPUG9m44NjJ9y3Pgcs7Hs7tJSvnFZOZLIOjagm5Qw65vIs6Xvl9GFqOjeNmoadqj5U2TlLcg1emqimV+DQxR9YnNFdAPOgZ0AltUhfR1Dy6oML6y5Kg3lqT2gHfbuIQaBfHdDh7oLybIb2wj+zfph0jpU/KagjAWBcwCqNsAbLQfjfHd4si5U46hqH3iMSg+W0ppwBVlEAvr3yKDuRtzeMvogDZsnZBdVDdngFAZlznSkiFpvjlHFS00Ky+Ia7yJ4xMjT9y4wQiuGNLUjh1kW81YvE0X+0AgAicSDnbmQeJP2oty8OFdtpScglSOVjv3NrUMpY3k/fNv+cZ+3ba4L9RHTLRpt53KDkVqYOrdDVeGu0cF2HQbmPDUxmdeX1hySGQ1NcOVvCDRNjquXDY7CtNaA6E/5YCzpkvPqtzuuSAhARtrh6/lFdgPix9K/knk1dNwvqQYn39l++OvqIQMBpo/FRttef9W8CVksZRMPMEiAGSe7rySkYcfNM9MU+64glGEAPnx5zMlceBHAc3uECFSdZrFUxrN/4jr4WSLOQih+zSlhuBF2L7AZg6ACntuYVGu2MJkJMTyWt1wCK5MQi81IQ7AmSR/cotyhDe6NF5b0VSqMRs4TLYOBuMpswNR9QDIvAu2y3s/q1D2X+ExJSHXtqZZrDhmsES5qSKFRvoJfSDaEfUMULCjZefEHxKiDxG6rYDUqOxLRnMXuWWUVtsTmUd2jsV7IPfdkdvovlrebIVF6eMapMwgQwjS/xqSZPBeZUHhvILDJm/RIe7BqpZcLQamE=
+    properties :
+     x : 18
+     y : 324
+     width : 315
+     height : 92
+    type : 7
+    code_elements :
+     type_code : 7
+     p_codes :
+      -
+        type : 35
+        enabled : false
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+  -
+    name : BTN_Supprimer
+    identifier : 0x2cff4d201888424d
+    internal_properties : CAAAAAgAAADTcQ6hrW+IWvLGCDx+pnI0YNpGMLitWJgUWTfX7tbp5FHJaghI9h0HEYgCBowZlzzKriTS/t2PAyjiXazM12wB8ZRX5pqlL/0Md5w0kJHqbb3NxoObApnqjbu1GADPUIjh8mffFN7RIY3aUArMlthgGu5ekMSBsoYsJeUVU7FwSYyQIEC2Grn4UOmHSlFBWVvGoQYhdJjF9N3B5ctPpGsOavWWdn0cD90ytrUGszvqIsvkn7iTMZhU0SmE5gLme1rqB5q+A5T0TbvuMCaDNnkwlvJsvBq/4/pCbaDBOjqWhxLeLHqUOoH0/RXtJbAma2wmgovQfhS19Lq7yppt6nbSWjIo8w43HmqwGJVogCGLUsooK2ldh9O3gvuHhVfTA6rZlOBVWUNVwgNnc2RZzdFtJG02U1rkP0Et09BkPBUa1CJSRGb6ggUTkFUewWnEtir9ij2j7b2NUVx1gKwOLvJsEGOaK95UC2WvL+HkKYS9IduRGdSXjAe/c97eUw62rIhSld1ng7DxI67MmVuAjaIUpl6jwvoVOde+ed1OD0bj0feO3jjOmpB9RaTMmirha6z1vUJQTnSXS4nFPGwP0MXPhcDSgEJ1suKPod9bwBWrgfnVIBKMz/vx18qmxQ6rlohbGLWehhGV8b7Pv9W0cvxK7R6+ssJhMXW6jpM5Hn6D2mwCXi+6Kt2qwS9lYbvie1O5NqVrAovBIaXiVlg56LjysON4rjznGmStbNAiEtfrM9T5LRdBEEtt8W5JTWOSULkiLtKXzc9mPJTo//ly00vSTw8LatuKucWQLn7KWvJawk3Ak04GQhFV0xNSOz+AeEH8qWNBpk1aegaUHPRry2nx3rvLRSk2abhBzGweng7nwdl0pPFL3aFxThHRMn6+IoWRc+GFgl9wLNB8ehB3hNWMx7ceV1kSE/+5DK3uaF8=
+    properties :
+     x : 18
+     y : 456
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         ListeSupprime(Liste_MotsClésAREchercher,LISTE_MotsClésARechercher)
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x293d29ec82bd6b20
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAABBUT7/EB7kOIKXzADsBoAHkz+LK2EXfUaVsP8/y3w0d9jAt1jzfDbzwU4pkO1cTDK6If/lNIyT5XLrb6wya83gEQhEl4QWa96Q+f7Mrpv7o3Xv9wgS9NsdA+NrSBSr8flg89X34eIChR6z0qgYsdz0ffNiZ2/8UQns6Pnwuj/MHSj4JkmRYHD/tk0QyEFHoSsSIKIyRFn4dSNlanrzi9H7dK6Y6JUg4cToRKUCJRlTyPqIhdZ0CLtaepsnL6z+HDjzQC8WZ8hSAybsGz+W5smqSIIe3CTQ+6SzzJy9+ckt9NJHKln4VKrdszLoWxFyOG3OCR2RGiDprHvyOw6GtHlzV7Yh4gbHw3Yq8000pMr3GMQE5GEUsiZx/1ybrBciBootQK9zIDZTI2w1og1hbWgPI0ZXi3Uq8woQzlCXR6WOZQ9JS5ta+qlasWOAckCfxC88bJZHPwd+yVhZfAdRWo3LT6isz0ofRxmd9zLbsnt5W0bBFVavc+uuT77MEwfJmq9P0PbQxmc9rLMvHpMKSRKul79JaekSpJct6ckXFxLvvoj2Fx2tXLRL4zXxXk5HB6DHj4vrP3f6kKMsc8wT/FQxaUjA
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAAALrfDjEyDyMXWRIn8oy4BZ5uwBXFHxyO3sbnEf0i9krbe5cgse5JXM6BULlgKtYXxyknrEJvkn/PEKcET2SsP0+hjqqbp8bTa2ADxB6/7TqqbL/qKN45TVvdK8wN1TehjS3I8AD7VMJ7rknFCiIlliecuulLmanomZ2FKUvSODCwX5FWS1Wd5honVU8qqzNhEzceMc7cKjWB4M7EWyvmz/
+     code : |1-
+      
+      CONSTANTE CST_NOM_WDL = "WD Serveur Webservice"
+      
+      GLOBAL
+      	gfnTableauResultat est un tableau dynamique		// Tableau contenant le résultat de la recherche
+      	gfnIndiceResultat est un entier					// Indice en cours dans le résultat de la recherche
+      	gfsFicINI est une chaine
+      LOCALE
+      	
+      gfnIndiceResultat = 1
+      
+      // Fichier ".ini" de configuration
+      gfsFicINI = fRepExe()+"\"+ProjetInfo(piNomProjet)+".ini"
+      Si pas fFichierExiste(gfsFicINI) ALORS
+      	fCrée(gfsFicINI)
+      FIN
+      
+      GROUPE_PARCOURS..Visible = Faux
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      INIEcrit("ClientWebservice","Serveur",Saisie_Serveur,gfsFicINI)
+     type : 2
+   -
+     code : |1+
+      
+      
+     type : 11
+   -
+     code : |1+
+      
+      
+     type : 12
+   -
+     code : |1+
+      
+      
+     type : 17
+   -
+     code : |1+
+      
+      
+     type : 13
+  procedures :
+   -
+     name : AfficherResultat
+     internal_properties : CAAAAAgAAABu30G5B9IkQd6Cvxh/GRs++JFGxeqHGbxVS9pE0MHwF1azcXHnWwGUGda7+egABpm8GxVQWjTFtCPDMLqz0n0ARVM34KSKM7Zz/ALtz8LL4AcUT9JJjFvA4gx5Gmf6e7q/7KYtjgMawR7iSlG1
+     procedure_id : 2087280253894421299
+     type_code : 14
+     code : |1+
+      Procédure AfficherResultat()
+      
+      // On Affiche l'image
+      Image_Resultat = fRepexe()+"\Temp.jpg"
+     type : 458752
+   -
+     name : bRecupererImage
+     internal_properties : CAAAAAgAAABO/2GYLxIGserozYQjqY9Y8Jum99JJJagN7bRg/PmI3YJ52aPTncWQFcTlRVxQDtd4SSXS2gpm2QTin8tOaWRvEuCEEXetmJdAg6Feuini50yRDJdQE6z9D+9UA8qZSoHkKUdWMb6FWv8CanGV
+     procedure_id : 2087280253894487007
+     type_code : 14
+     code : |1-
+      Procédure bRecupererImage(nNumImage)
+      
+      sResultat est une chaine
+      nIdFichier est un entier
+      
+      
+      // Appel au web service
+      sResultat =  Décrypte(WD_Serveur_Webservice.RenvoyerImage(nNumImage), "",crypteAucun,encodeBASE64)
+      
+      si sResultat~="" alors
+      	Erreur(<§$0008§>,ErreurInfo())
+      	RENVOYER Faux
+      FIN
+      
+      // Création du fichier de visualisation 
+      nIdFichier = fouvre(fRepexe()+"\Temp.jpg",foCréation)
+      si nIdFichier<>-1 alors
+      	// On reconstruit le fichier
+      	fEcrit(nIdFichier,sResultat,taille(sResultat))
+      	SI ErreurDétectée alors
+      		Erreur(<§$0009§>,ErreurInfo())
+      		RENVOYER Faux
+      	FIN
+      	fferme(nIdFichier)
+      
+      	// On Affiche l'image
+      	AfficherResultat()
+      SINON
+      	Erreur(<§$000a§>,ErreurInfo())
+      	RENVOYER Faux
+      FIN
+      
+      // Par défaut, la récupération se déroule correctement
+      RENVOYER Vrai
+     type : 458752
+   -
+     name : DernierResultat
+     procedure_id : 2087280258189520120
+     type_code : 14
+     code : |1-
+      Procédure DernierResultat()
+      
+      // On recherche le premier résultat
+      gfnIndiceResultat = Dimension(gfnTableauResultat)
+      
+      // On regarde la dimension du tableau de résultat
+      si Dimension(gfnTableauResultat)<gfnIndiceResultat ou gfnIndiceResultat =0 alors
+      	Info(<§$000b§>)
+      	RETOUR
+      FIN
+      
+      // On va chercher l'image correspondante
+      si bRecupererImage(gfnTableauResultat[gfnIndiceResultat])=Faux alors
+      	// Erreur lors de la récupération de l'image
+      	Info(<§$000c§>)
+      	RETOUR
+      FIN
+      
+      // On affiche le résultat
+      AfficherResultat()
+     type : 458752
+   -
+     name : ExecuterRecherche
+     procedure_id : 2087280258189585921
+     type_code : 14
+     code : |1+
+      Procédure ExecuterRecherche(bRechercheOU)
+      
+      tabResultatRecherche est un RechercherImagesResponse
+      tabRes est un tableau de chaine
+      nNbResultats est un entier
+      nOccurence est un entier
+      sMotsClés est une chaine
+      
+      // Appel au web service
+      nOccurence = ListeOccurrence(LISTE_MotsClésARechercher)
+      POUR i= 1 A nOccurence
+      	sMotsClés += ["$"] + LISTE_MotsClésARechercher[i]
+      FIN
+      
+      tabResultatRecherche = WD_Serveur_Webservice.RechercherImages(sMotsClés,bRechercheOU)
+      
+      // Traitement du résultat
+      SI tabResultatRecherche.RechercherImagesResult..Occurrence > 0 ALORS
+      
+      	Pour i = 1 _A_ tabResultatRecherche.RechercherImagesResult..Occurrence
+      		TableauAjoute(tabRes,tabResultatRecherche.RechercherImagesResult[i])
+      	FIN
+      	
+      	// On mémorise le résultat
+      	nNbResultats = nMemoriserResultat(tabRes)
+      	
+      	// On affiche le nombre d'image résultat
+      	SELON nNbResultats
+      		CAs 0 :
+      			LIB_Resultat= <§$000f§>
+      			Image_Resultat = ""
+      			
+      		CAS 1 :
+      			LIB_Resultat= <§$0010§>
+      		AUTRES CAS :
+      			LIB_Resultat= ChaîneConstruit(<§$000d§>, nNbResultats)
+      	FIN
+      	
+      	
+      	// On affiche l'image correspondante
+      	PremierResultat()
+      	
+      	// Si on a plus d'un résultat, on affiche les boutons de parcours
+      	si nNbResultats>=1 alors
+      		GROUPE_PARCOURS..Visible = Vrai
+      	SINON
+      		GROUPE_PARCOURS..Visible = Faux
+      	FIN
+      SINON
+      	// Affichage de l'erreur
+      	LIB_Resultat= <§$000f§>
+      	Image_Resultat = ""
+      	
+      	Erreur(<§$000e§>)
+      FIN
+     type : 458752
+   -
+     name : nMemoriserResultat
+     procedure_id : 2087280258189651753
+     type_code : 14
+     code : |1+
+      Procédure nMemoriserResultat(tabResultatRecherche)
+      
+      nNbReponses est un entier
+      
+      // On libère l'ancien tableau des résultats
+      gfnTableauResultat = allouer un tableau d'entier
+      
+      // On détermine le nombre de réponses 
+      nNbReponses = TableauOccurrence(tabResultatRecherche)
+      
+      // On dimensionne le tableau à la taille nécessaire
+      gfnTableauResultat = tabResultatRecherche
+      
+      // On renvoie le nombre de réponses
+      RENVOYER nNbReponses
+      
+     type : 458752
+   -
+     name : PremierResultat
+     procedure_id : 2087280258189717570
+     type_code : 14
+     code : |1-
+      Procédure PremierResultat()
+      
+      // On recherche le premier résultat
+      gfnIndiceResultat = 1
+      
+      // On regarde la dimension du tableau de résultat
+      si Dimension(gfnTableauResultat)<gfnIndiceResultat alors
+      	Info(<§$000b§>)
+      	RETOUR
+      FIN
+      
+      // On va chercher l'image correspondante
+      si bRecupererImage(gfnTableauResultat[gfnIndiceResultat])=Faux alors
+      	// Erreur lors de la récupération de l'image
+      	Info(<§$000c§>)
+      	RETOUR
+      FIN
+      
+      // On affiche le résultat
+      AfficherResultat()
+     type : 458752
+   -
+     name : ResultatPrecedent
+     procedure_id : 2087280262484750605
+     type_code : 14
+     code : |1-
+      Procédure ResultatPrecedent()
+      
+      si gfnIndiceResultat <= 1 alors
+      	Info(<§$0011§>)
+      	PremierResultat()
+      	RETOUR
+      FIN
+      
+      // On recherche le premier résultat
+      gfnIndiceResultat --
+      
+      // On regarde la dimension du tableau de résultat
+      si Dimension(gfnTableauResultat)<gfnIndiceResultat alors
+      	Info(<§$000b§>)
+      	RETOUR
+      FIN
+      
+      // On va chercher l'image correspondante
+      si bRecupererImage(gfnTableauResultat[gfnIndiceResultat])=Faux alors
+      	// Erreur lors de la récupération de l'image
+      	Info(<§$000c§>)
+      	RETOUR
+      FIN
+      
+      // On affiche le résultat
+      AfficherResultat()
+     type : 458752
+   -
+     name : ResultatSuivant
+     procedure_id : 2087280262484816437
+     type_code : 14
+     code : |1-
+      Procédure ResultatSuivant()
+      
+      // On recherche le résultat suivant
+      gfnIndiceResultat++
+      
+      // On regarde la dimension du tableau de résultat
+      si Dimension(gfnTableauResultat)<gfnIndiceResultat alors	
+      	si Dimension(gfnTableauResultat) <>0 alors 
+      		Info(<§$0012§>)
+      		DernierResultat()	
+      	SINON
+      		Info(<§$000b§>)	
+      	FIN
+      	RETOUR
+      		
+      FIN
+      
+      // On va chercher l'image correspondante
+      si bRecupererImage(gfnTableauResultat[gfnIndiceResultat])=Faux alors
+      	// Erreur lors de la récupération de l'image
+      	Info(<§$000c§>)
+      	RETOUR
+      FIN
+      
+      // On affiche le résultat
+      AfficherResultat()
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1cf78166000fc3dd
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+  strings :
+   -
+     text :
+      fr-FR : Vous devez préciser votre recherche
+     index : 0
+   -
+     text :
+      fr-FR : Erreur lors de l'exécution de la requête au webservice
+     index : 1
+   -
+     text :
+      fr-FR : Vérifiez que le webservice 'WD Serveur Webservice' est bien lancé et que votre serveur Web est correctement configuré.
+     index : 2
+   -
+     text :
+      fr-FR : "Erreur lors de la requête au Webservice : "
+     index : 3
+   -
+     text :
+      fr-FR : Cet exemple permet d'illustrer le fonctionnement des WebServices avec WINDEV.
+     index : 4
+   -
+     text :
+      fr-FR : "Pour fonctionner, il est nécessaire d'avoir déployé le WebService \"WD Serveur Webservices\" sur un serveur."
+     index : 5
+   -
+     text :
+      fr-FR : Il est conseillé de consulter l'aide en ligne sur le fonctionnement des Webservices avant d'utiliser cet exemple
+     index : 6
+   -
+     text :
+      fr-FR : Erreur lors de l'exécution de la requête au webservice
+     index : 7
+   -
+     text :
+      fr-FR : "Erreur lors de l'exécution de la requête sur le serveur. "
+     index : 8
+   -
+     text :
+      fr-FR : Erreur lors de l'écriture du fichier
+     index : 9
+   -
+     text :
+      fr-FR : Impossible de créer le fichier temporaire
+     index : 10
+   -
+     text :
+      fr-FR : Aucun résultat n'est disponible pour cette requête
+     index : 11
+   -
+     text :
+      fr-FR : L'image correspondant au résultat n'a pas été trouvée sur le serveur
+     index : 12
+   -
+     text :
+      fr-FR : "%1 images correspondent à votre recherche"
+     index : 13
+   -
+     text :
+      fr-FR : Aucune image ne correspond à votre recherche
+     index : 14
+   -
+     text :
+      fr-FR : aucune image ne correspond à votre recherche
+     index : 15
+   -
+     text :
+      fr-FR : une image correspond à votre recherche
+     index : 16
+   -
+     text :
+      fr-FR : Vous êtes sur le premier résultat de la requête
+     index : 17
+   -
+     text :
+      fr-FR : Vous êtes sur la dernière image
+     index : 18
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
